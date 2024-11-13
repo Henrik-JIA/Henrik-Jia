@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,html,css,js,md,latex&titles=true">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields -->
-    <a href="https://github.com/Henrik-JIA"><img src="https://img.shields.io/badge/GitHub-Henrik-JIA-blue?logo=github" /></a>
+    <a href="https://github.com/Henrik-Jia"><img src="https://img.shields.io/badge/GitHub-Henrik_Jia-blue?logo=github" /></a>
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
