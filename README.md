@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://wakatime.com/share/embed -->
     <!-- <img width="700" src="https://wakatime.com/share/@Henrik-Jia/9e225507-6273-4967-b1c9-409f043a94a5.svg" /> -->
-    <figure><embed src="https://wakatime.com/share/@d027ad62-5428-42c2-9cc6-4ebab312f495/1f906576-60fd-4ea9-842a-ff393085ebb1.svg"></embed></figure>
+    <img width="700" src="https://wakatime.com/share/@d027ad62-5428-42c2-9cc6-4ebab312f495/1f906576-60fd-4ea9-842a-ff393085ebb1.svg" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
