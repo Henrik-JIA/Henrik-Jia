@@ -26,17 +26,18 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Henrik-JIA&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Henrik-Jia&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img width="400" src="https://streak-stats.demolab.com?user=Henrik-JIA&theme=transparent&hide_border=true" />
+    <img width="400" src="https://streak-stats.demolab.com?user=Henrik-Jia&theme=transparent&hide_border=true" />
 </p>
 <p align="center">
     <!-- https://wakatime.com/share/embed -->
-    <img width="700" src="https://wakatime.com/share/@Henrik-JIA/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
+    <!-- <img width="700" src="https://wakatime.com/share/@Henrik-Jia/9e225507-6273-4967-b1c9-409f043a94a5.svg" /> -->
+    <figure><embed src="https://wakatime.com/share/@d027ad62-5428-42c2-9cc6-4ebab312f495/1f906576-60fd-4ea9-842a-ff393085ebb1.svg"></embed></figure>
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Henrik-JIA&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Henrik-Jia&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
