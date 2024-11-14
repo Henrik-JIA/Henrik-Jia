@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Henrik-JIA&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Henrik-JIA&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage&column=9" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -48,9 +48,11 @@ Here are some ideas to get you started:
     <a href="https://github.com/Henrik-Jia"><img src="https://img.shields.io/badge/GitHub-Henrik_Jia-blue?logo=github" /></a>
 </p>
 <p align="center">
+    <iframe src="https://Henrik-JIA.github.io/Henrik-Jia/index.html" frameborder="0" width="100%" height="200"></iframe>
+</p>
+<p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&text=THE%20END&fontSize=25&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&&section=footer&text=THE%20END&fontSize=25&fontAlign=50&fontAlignY=80&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=15&descAlignY=60&animation=twinkling" />
 </p>
 
-![亮色](https://raw.githubusercontent.com/Henrik-JIA/Henrik-Jia/output/github-contribution-grid-snake.svg)
 
