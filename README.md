@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Henrik-JIA!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&&section=header&text=HI%20THERE&fontSize=60&fontAlign=50&fontAlignY=25&desc=I%20am%20Henrik-JIA!&descAlign=50&descSize=30&descAlignY=50&animation=twinkling" />
 </p>
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&pause=1500&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -41,14 +41,17 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,html,css,js,r,md,latex&titles=true">
+    <img width="500" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,html,css,js,r,md,latex&titles=true">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields -->
     <a href="https://github.com/Henrik-Jia"><img src="https://img.shields.io/badge/GitHub-Henrik_Jia-blue?logo=github" /></a>
 </p>
 <p align="center">
-    <iframe src="https://Henrik-JIA.github.io/Henrik-Jia/index.html" frameborder="0" width="100%" height="200"></iframe>
+    <!-- 暗色主题 -->
+    <!-- <img src="https://raw.githubusercontent.com/Henrik-JIA/Henrik-Jia/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Dark" /> -->
+    <!-- 亮色主题 -->
+    <img src="https://raw.githubusercontent.com/Henrik-JIA/Henrik-Jia/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Light" />
 </p>
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
